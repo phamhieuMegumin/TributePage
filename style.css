@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #909090;
+}
+.container{
+    text-align: center;
+}
+.imgbox{
+    text-align: center;
+    width: 100%;
+    height: 500px;
+}
+.imgbox img{
+    width: 100%;
+    height: 100%;
+}
